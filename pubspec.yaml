@@ -24,7 +24,7 @@ dependencies:
   crypto: ^3.0.6
   shimmer: ^3.0.0
   share_plus: ^10.1.4
-  permission_handler: ^11.4.0
+  permission_handler: ^12.0.1
   gal: ^2.3.0
   uuid: ^4.5.1
   url_launcher: ^6.3.1
